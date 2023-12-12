@@ -1,0 +1,6 @@
+name: test
+
+environment:
+  sdk: "3.2.3"
+dependencies:
+  http: ^1.1.2
